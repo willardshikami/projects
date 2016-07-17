@@ -12,18 +12,15 @@ https://github.com/willardshikami/fearofgod
 Fear of God is a website for a clothing brand
 
 **Features**
-Links to Nav Bar:
-1. Home.
-2. Shop Women.
-3. Shop Men.
-4. Contact 
-5. About.
+One-page website
+NavBar Links: 
+ 1. Home 
+ 2. About us
+ 3. Portfolio
+ 4. Contact us
 
 **Tools**
-The tools:
-1. Foundation 6.
-2. HTML.
-3. CSS.
+Foundation6 HTML & CSS.
 
 **Contributors**
 [Willard Shikami](https://github.com/willardshikami) 
