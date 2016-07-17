@@ -12,6 +12,7 @@ https://github.com/willardshikami/fearofgod
 Fear of God is a website for a clothing brand
 
 **Features**
+Links to Nav Bar:
 1. Home.
 2. Shop Women.
 3. Shop Men.
@@ -19,6 +20,7 @@ Fear of God is a website for a clothing brand
 5. About.
 
 **Tools**
+The tools:
 1. Foundation 6.
 2. HTML.
 3. CSS.
