@@ -44,9 +44,9 @@ NavBar Links:
  2. Blog
  3. Sign in
  4. Sign up 
-**Features**
 
 **Contributors**
 
 [Gitau Rodgers](https://github.com/valdadyne)
+
 [Willard Shikami](https://github.com/willardshikami) 
