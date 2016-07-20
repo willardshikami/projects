@@ -26,23 +26,27 @@ Foundation6 HTML & CSS.
 [Willard Shikami](https://github.com/willardshikami) 
 
 
+
 ## Anime Kenya
 _________________
 
 **Link to Repo**
+
 https://github.com/valdadyne/animeKenya
 
 **Project Details**
+
 Anime Kenya is a website for Anime fans.
 
 **Features**
 NavBar Links: 
-1. Community
-2. Blog
-3. Sign In
-4. Sign Up
-
+ 1. Community
+ 2. Blog
+ 3. Sign in
+ 4. Sign up 
+**Features**
 
 **Contributors**
+
 [Gitau Rodgers](https://github.com/valdadyne)
 [Willard Shikami](https://github.com/willardshikami) 
