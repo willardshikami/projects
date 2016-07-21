@@ -1,6 +1,6 @@
 # projects
 
-## Fear Of God
+## 1. Fear Of God
 _________________
 
 **Link to Repo**
@@ -27,7 +27,7 @@ Foundation6 HTML & CSS.
 
 
 
-## Anime Kenya
+## 2. Anime Kenya
 _________________
 
 **Link to Repo**
