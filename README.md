@@ -51,7 +51,7 @@ NavBar Links:
 
 [Willard Shikami](https://github.com/willardshikami) 
 
-## 1. Willard Shikami
+## 3. Willard Shikami
 _________________
 
 **Link to Repo**
