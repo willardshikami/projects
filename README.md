@@ -50,3 +50,26 @@ NavBar Links:
 [Gitau Rodgers](https://github.com/valdadyne)
 
 [Willard Shikami](https://github.com/willardshikami) 
+
+## 1. Willard Shikami
+_________________
+
+**Link to Repo**
+
+https://github.com/willardshikami/willardshikami
+
+**Project Details**
+
+My personal Portfolio
+
+**Features**
+NavBar Links: 
+ 1. Projects.
+ 2. About.
+ 3. Contact.
+
+**Tools**
+HTML & CSS.
+
+**Contributors**
+[Willard Shikami](https://github.com/willardshikami) 
