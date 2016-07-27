@@ -19,7 +19,7 @@ HTML & CSS.
 [Willard Shikami](https://github.com/willardshikami)
 
 
-# 1. PROJECTS - (FRONTEND)
+# 1. PROJECTS - (FRONT-END)
 
 ## a. Fear Of God
 _________________
