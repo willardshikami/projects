@@ -73,8 +73,24 @@ NavBar Links:
 [Willard Shikami](https://github.com/willardshikami) 
 
 
-## c. 
+## c. Environment
 _________________
 
 **Link to Repo**
  
+https://github.com/willardshikami/environment
+ 
+**Project Details**
+
+A website about the environment.
+
+**Features**
+NavBar Links: 
+ 1. 
+ 2. 
+ 3. 
+ 4. 
+
+**Contributors**
+
+[Willard Shikami](https://github.com/willardshikami) 
